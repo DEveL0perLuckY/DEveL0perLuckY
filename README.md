@@ -24,16 +24,10 @@ Highly motivated and dedicated college student aspiring to secure an entry-level
 - **Teamwork and Collaboration**
 - **Quick Learner and Adaptable**
 
-## Projects
-
-1. **E-commerce Website**  
-   - Full-fledged e-commerce project with robust Authentication features.
-
-2. **Smart Learn**
-   - Education platfrom [SmartLern](http://smartlearn.onrender.com/)
-
-3. **Agri Connect**
-   - connect farm with web-app
+## Portfolio
+ 
+Explore more about my work and projects at: 
+https://developerlucky.in/
 
 ... and more.
 
